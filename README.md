@@ -1,3 +1,2 @@
 # templates
-Templates in C++
-Understanding templates
+Understanding templates in C++
